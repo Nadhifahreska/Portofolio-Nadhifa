@@ -1,4 +1,5 @@
 import { GlobeIcon, MailIcon, Book } from "lucide-react";
+import { FaInstagram } from "react-icons/fa";
 
 export type IconProps = React.HTMLAttributes<SVGElement>;
 
@@ -230,4 +231,5 @@ export const Icons = {
       />
     </svg>
   ),
+  instagram: (props: IconProps) => <FaInstagram {...props} />,
 };
