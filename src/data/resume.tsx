@@ -52,8 +52,8 @@ export const DATA = {
     { href: "#projects", icon: IoCode, label: "Project" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "nadhifareskaa@gmail.com",
+    tel: "+6289634439400",
     social: {
       GitHub: {
         name: "GitHub",
@@ -66,6 +66,13 @@ export const DATA = {
         name: "LinkedIn",
         url: "https://linkedin.com/in/nadhifah-nur-annisa-reska",
         icon: Icons.linkedin,
+
+        navbar: true,
+      },
+      Instagram: {
+        name: "Instagram",
+        url: "https://instagram.com/nadhifasshh",
+        icon: Icons.instagram,
 
         navbar: true,
       },
