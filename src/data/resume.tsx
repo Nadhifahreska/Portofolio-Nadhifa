@@ -120,7 +120,7 @@ export const DATA = {
     {
       school: "Semarang State University",
       href: "https://unnes.ac.id/beranda/",
-      degree: "Bachelor's Degree of System Information",
+      degree: "Bachelor's Degree of Information Systems",
       logoUrl: "./images/universitas-negeri-semarang.png",
       start: "2021",
       end: "2025",
