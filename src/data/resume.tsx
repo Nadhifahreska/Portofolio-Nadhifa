@@ -87,7 +87,7 @@ export const DATA = {
       title: "Data Entry Assistant",
       logoUrl: "./images/klinik-pendidikan-mipa.png",
       start: "Aug 2025",
-      end: "Now",
+      end: "Present",
       description:
         "Responsible for inputting, cleaning, and validating competition answer data, while managing business reporting in Microsoft Excel and Google Sheets to ensure accuracy and reliability.",
     },
