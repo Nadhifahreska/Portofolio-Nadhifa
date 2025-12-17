@@ -85,7 +85,7 @@ export const DATA = {
       badges: [],
       location: "On-Site",
       title: "IT Business Partner",
-      logoUrl: "",
+      logoUrl: "public/images/Bank-Danamon.jpeg",
       start: "Nov 2025",
       end: "Present",
       description:
