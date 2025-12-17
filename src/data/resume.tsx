@@ -80,6 +80,18 @@ export const DATA = {
 
   work: [
     {
+      company: "PT Bank Danamon Indonesia Tbk",
+      href: "https://www.danamon.co.id/",
+      badges: [],
+      location: "On-Site",
+      title: "IT Business Partner",
+      logoUrl: "",
+      start: "Nov 2025",
+      end: "Present",
+      description:
+        "Tracked project timelines and conducted follow-ups with stakeholders to ensure timely task completion and summarized meetings and upadated status reports",
+    },
+    {
       company: "Klinik Pendidikan Mipa",
       href: "https://read1bogorplus.com/",
       badges: [],
